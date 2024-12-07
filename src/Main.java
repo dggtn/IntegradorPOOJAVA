@@ -72,6 +72,7 @@ public class Main {
         callecitas.inscribirCorredor(daniela);
 
         System.out.println(saucony.patrocinarCorredor(daniela));
+        calle.inscribirCorredor(daniela);
     }
 
 }

@@ -12,6 +12,7 @@ public abstract class Carrera implements Sponsoreable{
         this.inscriptos = new ArrayList<>();
     }
 
+
     public abstract void inscribirCorredor(Corredor c);
 
     public int cantidadInscriptos(){
